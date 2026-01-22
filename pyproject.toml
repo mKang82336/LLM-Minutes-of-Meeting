@@ -5,3 +5,4 @@ description = "A tool that transforms audio or video files into text transcripts
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # drop an unused branch
+# keep defaults in sync with the manifest
